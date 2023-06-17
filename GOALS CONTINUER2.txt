@@ -1,0 +1,23 @@
+Potweed🌿
+Create a sustainable cryptocurrency.
+
+1. Purpose:
+   - The purpose of Apemos memecoin is to create a decentralized cryptocurrency that empowers individuals and promotes financial freedom within the EVMOS ecosystem.
+
+2. Mission:
+   - Our mission is to establish a decentralized community within EVMOS, where individuals have control over their financial assets and participate actively in decision-making processes.
+   - We aim to reduce reliance on centralized authorities and foster a trustless environment where transactions and governance are governed by the collective power of the community.
+
+3. Values:
+   a. Decentralization: We prioritize decentralization as a core value, ensuring that power and control are distributed among network participants rather than concentrated in a few entities.
+   b. Transparency: We value transparency and believe in providing open access to information and data. We promote transparency in governance, operations, and financial transactions within the Apemos memecoin ecosystem.
+   c. Privacy: We respect individuals' privacy and aim to implement privacy features that allow users to have control over their personal information while ensuring compliance with applicable regulations.
+   d. Empowerment: We strive to empower individuals by providing them with the tools, resources, and knowledge necessary to actively participate in the decentralized ecosystem.
+   e. Security: We prioritize security in all aspects of Apemos memecoin, including smart contract audits, secure wallet solutions, and robust network infrastructure to protect the assets and privacy of community members.
+
+4. Problems to Solve:
+   a. Centralization Risks: Traditional financial systems and centralized cryptocurrencies are prone to single points of failure and control, which can lead to censorship, manipulation, and lack of transparency. Apemos memecoin aims to address these risks by embracing decentralization.
+   b. Financial Exclusion: Many individuals around the world lack access to basic financial services due to centralized systems and barriers. Apemos memecoin seeks to provide an inclusive financial platform that can be accessed by anyone with an internet connection.
+   c. Lack of Control: Centralized systems often limit individuals' control over their financial assets and decision-making processes. Apemos memecoin empowers individuals by providing them with sovereignty over their funds and a voice in the network's governance.
+
+Through its purpose, mission, and values, Apemos memecoin aims to create a decentralized ecosystem that empowers individuals, promotes financial sovereignty, and mitigates the risks associated with centralized control. By addressing the identified problems and embodying the stated values, Apemos memecoin strives to contribute to the growth of decentralized finance within the EVMOS community.
